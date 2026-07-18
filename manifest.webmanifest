@@ -1,0 +1,19 @@
+{
+  "name": "2026挪威-法国旅行地图",
+  "short_name": "旅行地图",
+  "description": "2026挪威-法国旅行互动地图",
+  "start_url": "./?v=f6085574c4ae",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3f8",
+  "theme_color": "#1f4f82",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='42' fill='%231f4f82'/%3E%3Cpath d='M48 128c22-50 60-78 96-72-26 16-40 38-45 72-17-18-33-19-51 0z' fill='%23ffffff'/%3E%3Ccircle cx='130' cy='60' r='10' fill='%23f5c542'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
