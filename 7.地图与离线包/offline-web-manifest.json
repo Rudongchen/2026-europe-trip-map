@@ -1,0 +1,781 @@
+{
+  "generatedAt": "2026-07-09T13:48:39.504Z",
+  "count": 84,
+  "entries": [
+    {
+      "url": "https://avinor.no/en/airport/bergen-airport/",
+      "slug": "avinor.no-en-airport-bergen-airport",
+      "file": "offline-web/avinor.no-en-airport-bergen-airport.html",
+      "fetchedAt": "2026-07-09T13:46:04.537Z",
+      "ok": true,
+      "title": "Bergen Airport - Avinor",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://avinor.no/en/airport/bodo-airport/",
+      "slug": "avinor.no-en-airport-bodo-airport",
+      "file": "offline-web/avinor.no-en-airport-bodo-airport.html",
+      "fetchedAt": "2026-07-09T13:46:09.283Z",
+      "ok": true,
+      "title": "Bodø Airport - Avinor",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://avinor.no/en/airport/leknes-airport/",
+      "slug": "avinor.no-en-airport-leknes-airport",
+      "file": "offline-web/avinor.no-en-airport-leknes-airport.html",
+      "fetchedAt": "2026-07-09T13:46:10.887Z",
+      "ok": true,
+      "title": "Leknes Airport - Avinor",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://avinor.no/en/airport/oslo-airport/",
+      "slug": "avinor.no-en-airport-oslo-airport",
+      "file": "offline-web/avinor.no-en-airport-oslo-airport.html",
+      "fetchedAt": "2026-07-09T13:46:12.147Z",
+      "ok": true,
+      "title": "Oslo Airport (OSL) Gardermoen | Flights, transport, food & shopping",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://avinor.no/en/airport/trondheim-airport/",
+      "slug": "avinor.no-en-airport-trondheim-airport",
+      "file": "offline-web/avinor.no-en-airport-trondheim-airport.html",
+      "fetchedAt": "2026-07-09T13:46:13.610Z",
+      "ok": true,
+      "title": "Trondheim Airport - Avinor",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://bunnpris.no/",
+      "slug": "bunnpris.no",
+      "file": "offline-web/bunnpris.no.html",
+      "fetchedAt": "2026-07-09T13:46:14.725Z",
+      "ok": false,
+      "title": "https://bunnpris.no/",
+      "status": "",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://en.chateauversailles.fr/",
+      "slug": "en.chateauversailles.fr",
+      "file": "offline-web/en.chateauversailles.fr.html",
+      "fetchedAt": "2026-07-09T13:46:15.955Z",
+      "ok": true,
+      "title": "Château de Versailles | Site officiel",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://haussmann.galerieslafayette.com/en/",
+      "slug": "haussmann.galerieslafayette.com-en",
+      "file": "offline-web/haussmann.galerieslafayette.com-en.html",
+      "fetchedAt": "2026-07-09T13:46:18.407Z",
+      "ok": true,
+      "title": "Parisian Department Store - Galeries Lafayette Paris Haussmann",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://joker.no/",
+      "slug": "joker.no",
+      "file": "offline-web/joker.no.html",
+      "fetchedAt": "2026-07-09T13:46:19.286Z",
+      "ok": true,
+      "title": "Joker – Den gode naboen",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://kiwi.no/",
+      "slug": "kiwi.no",
+      "file": "offline-web/kiwi.no.html",
+      "fetchedAt": "2026-07-09T13:46:22.267Z",
+      "ok": true,
+      "title": "Kjapt, trygt og billig | KIWI",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://madparis.fr/",
+      "slug": "madparis.fr",
+      "file": "offline-web/madparis.fr.html",
+      "fetchedAt": "2026-07-09T13:46:25.039Z",
+      "ok": true,
+      "title": "Les Arts Décoratifs - Site officiel",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://meny.no/Finn-butikk/MENY-Dolviken/",
+      "slug": "meny.no-finn-butikk-meny-dolviken",
+      "file": "offline-web/meny.no-finn-butikk-meny-dolviken.html",
+      "fetchedAt": "2026-07-09T13:46:28.436Z",
+      "ok": true,
+      "title": "MENY Dolviken | MENY",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://meteofrance.com/",
+      "slug": "meteofrance.com",
+      "file": "offline-web/meteofrance.com.html",
+      "fetchedAt": "2026-07-09T13:46:33.159Z",
+      "ok": true,
+      "title": "PREVISIONS METEO FRANCE - Site Officiel de Météo-France - Prévisions gratuites à 15 jours sur la France et sur le monde",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://open-meteo.com/en/docs",
+      "slug": "open-meteo.com-en-docs",
+      "file": "offline-web/open-meteo.com-en-docs.html",
+      "fetchedAt": "2026-07-09T13:46:36.663Z",
+      "ok": true,
+      "title": "🌦️ Docs | Open-Meteo.com",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://open-meteo.com/en/docs/historical-weather-api",
+      "slug": "open-meteo.com-en-docs-historical-weather-api",
+      "file": "offline-web/open-meteo.com-en-docs-historical-weather-api.html",
+      "fetchedAt": "2026-07-09T13:46:37.125Z",
+      "ok": true,
+      "title": "🏛️ Historical Weather API | Open-Meteo.com",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://palaisdetokyo.com/en/",
+      "slug": "palaisdetokyo.com-en",
+      "file": "offline-web/palaisdetokyo.com-en.html",
+      "fetchedAt": "2026-07-09T13:46:37.290Z",
+      "ok": true,
+      "title": "Palais de Tokyo - Palais de Tokyo",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://sitelecorbusier.com/",
+      "slug": "sitelecorbusier.com",
+      "file": "offline-web/sitelecorbusier.com.html",
+      "fetchedAt": "2026-07-09T13:46:38.764Z",
+      "ok": true,
+      "title": "Une odyssée sensible - Site Le Corbusier",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://spar.no/",
+      "slug": "spar.no",
+      "file": "offline-web/spar.no.html",
+      "fetchedAt": "2026-07-09T13:46:44.028Z",
+      "ok": true,
+      "title": "Hjem | SPAR",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://store.totalenergies.fr/en_EN/NF059705",
+      "slug": "store.totalenergies.fr-en_en-nf059705",
+      "file": "offline-web/store.totalenergies.fr-en_en-nf059705.html",
+      "fetchedAt": "2026-07-09T13:46:46.779Z",
+      "ok": false,
+      "title": "https://store.totalenergies.fr/en_EN/NF059705",
+      "status": "",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://unox.no/",
+      "slug": "unox.no",
+      "file": "offline-web/unox.no.html",
+      "fetchedAt": "2026-07-09T13:46:57.284Z",
+      "ok": true,
+      "title": "Mobilitet fra Uno-X",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.abbayedefontenay.fr/",
+      "slug": "www.abbayedefontenay.fr",
+      "file": "offline-web/www.abbayedefontenay.fr.html",
+      "fetchedAt": "2026-07-09T13:46:59.183Z",
+      "ok": false,
+      "title": "https://www.abbayedefontenay.fr/",
+      "status": "",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.atelier-lumieres.com/en",
+      "slug": "www.atelier-lumieres.com-en",
+      "file": "offline-web/www.atelier-lumieres.com-en.html",
+      "fetchedAt": "2026-07-09T13:47:00.236Z",
+      "ok": true,
+      "title": "Atelier des Lumières | Digital & immersive art center in Paris",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.bcia.com.cn/",
+      "slug": "www.bcia.com.cn",
+      "file": "offline-web/www.bcia.com.cn.html",
+      "fetchedAt": "2026-07-09T13:47:01.889Z",
+      "ok": true,
+      "title": "公司介绍-北京首都国际机场",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.boulanger.com/",
+      "slug": "www.boulanger.com",
+      "file": "offline-web/www.boulanger.com.html",
+      "fetchedAt": "2026-07-09T13:47:03.359Z",
+      "ok": true,
+      "title": "Boulanger © - Électroménager & Multimédia",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.boulanger.com/magasins/ile-de-france/paris/paris/boulanger-paris-haussmann-maison",
+      "slug": "www.boulanger.com-magasins-ile-de-france-paris-paris-boulanger-paris-haussmann-maison",
+      "file": "offline-web/www.boulanger.com-magasins-ile-de-france-paris-paris-boulanger-paris-haussmann-maison.html",
+      "fetchedAt": "2026-07-09T13:47:03.956Z",
+      "ok": false,
+      "title": "https://www.boulanger.com/magasins/ile-de-france/paris/paris/boulanger-paris-haussmann-maison",
+      "status": "404 Not Found",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "url": "https://www.boulanger.com/ref/1231271",
+      "slug": "www.boulanger.com-ref-1231271",
+      "file": "offline-web/www.boulanger.com-ref-1231271.html",
+      "fetchedAt": "2026-07-09T13:47:04.912Z",
+      "ok": true,
+      "title": "Tablette Apple IPAD Pro 13 M5 512Go Noir Sidéral | Boulanger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.carrefour.fr/magasin/city-poissy-gaulle",
+      "slug": "www.carrefour.fr-magasin-city-poissy-gaulle",
+      "file": "offline-web/www.carrefour.fr-magasin-city-poissy-gaulle.html",
+      "fetchedAt": "2026-07-09T13:47:05.270Z",
+      "ok": false,
+      "title": "https://www.carrefour.fr/magasin/city-poissy-gaulle",
+      "status": "403 Forbidden",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "url": "https://www.carrefour.fr/magasin/contact-ronchamp",
+      "slug": "www.carrefour.fr-magasin-contact-ronchamp",
+      "file": "offline-web/www.carrefour.fr-magasin-contact-ronchamp.html",
+      "fetchedAt": "2026-07-09T13:47:05.855Z",
+      "ok": false,
+      "title": "https://www.carrefour.fr/magasin/contact-ronchamp",
+      "status": "403 Forbidden",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "url": "https://www.carrefour.fr/magasin/market-l-arbresle",
+      "slug": "www.carrefour.fr-magasin-market-l-arbresle",
+      "file": "offline-web/www.carrefour.fr-magasin-market-l-arbresle.html",
+      "fetchedAt": "2026-07-09T13:47:06.307Z",
+      "ok": false,
+      "title": "https://www.carrefour.fr/magasin/market-l-arbresle",
+      "status": "403 Forbidden",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "url": "https://www.centrepompidou.fr/en/",
+      "slug": "www.centrepompidou.fr-en",
+      "file": "offline-web/www.centrepompidou.fr-en.html",
+      "fetchedAt": "2026-07-09T13:47:06.548Z",
+      "ok": true,
+      "title": "Home - Centre Pompidou",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.circlek.no/",
+      "slug": "www.circlek.no",
+      "file": "offline-web/www.circlek.no.html",
+      "fetchedAt": "2026-07-09T13:47:08.596Z",
+      "ok": true,
+      "title": "Besøk våre stasjoner i hele Norge | Circle K",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.collinenotredameduhaut.com/",
+      "slug": "www.collinenotredameduhaut.com",
+      "file": "offline-web/www.collinenotredameduhaut.com.html",
+      "fetchedAt": "2026-07-09T13:47:09.964Z",
+      "ok": true,
+      "title": "Bienvenue - Chapelle Le Corbusier, Ronchamp",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.coop.no/",
+      "slug": "www.coop.no",
+      "file": "offline-web/www.coop.no.html",
+      "fetchedAt": "2026-07-09T13:47:17.496Z",
+      "ok": true,
+      "title": "Coop litt ditt - Dagligvarebutikker og byggevarehus - Coop",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-flam-1414",
+      "slug": "www.coop.no-butikker-coop-marked-matkroken-coop-marked-flam-1414",
+      "file": "offline-web/www.coop.no-butikker-coop-marked-matkroken-coop-marked-flam-1414.html",
+      "fetchedAt": "2026-07-09T13:47:17.962Z",
+      "ok": true,
+      "title": "Coop Marked Flåm - Coop Marked / Matkroken",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.couventdelatourette.fr/",
+      "slug": "www.couventdelatourette.fr",
+      "file": "offline-web/www.couventdelatourette.fr.html",
+      "fetchedAt": "2026-07-09T13:47:18.110Z",
+      "ok": true,
+      "title": "Couvent Sainte-Marie de La Tourette - Le Corbusier - 1959",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.couventdelatourette.fr/book-your-visit.html",
+      "slug": "www.couventdelatourette.fr-book-your-visit.html",
+      "file": "offline-web/www.couventdelatourette.fr-book-your-visit.html.html",
+      "fetchedAt": "2026-07-09T13:47:20.159Z",
+      "ok": true,
+      "title": "Book Your Visit",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.darty.com/",
+      "slug": "www.darty.com",
+      "file": "offline-web/www.darty.com.html",
+      "fetchedAt": "2026-07-09T13:47:21.426Z",
+      "ok": false,
+      "title": "https://www.darty.com/",
+      "status": "",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.darty.com/nav/extra/magasins",
+      "slug": "www.darty.com-nav-extra-magasins",
+      "file": "offline-web/www.darty.com-nav-extra-magasins.html",
+      "fetchedAt": "2026-07-09T13:47:27.910Z",
+      "ok": false,
+      "title": "https://www.darty.com/nav/extra/magasins",
+      "status": "",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.e.leclerc/mag/e-leclerc-c-c-beaune",
+      "slug": "www.e.leclerc-mag-e-leclerc-c-c-beaune",
+      "file": "offline-web/www.e.leclerc-mag-e-leclerc-c-c-beaune.html",
+      "fetchedAt": "2026-07-09T13:47:32.518Z",
+      "ok": false,
+      "title": "https://www.e.leclerc/mag/e-leclerc-c-c-beaune",
+      "status": "404 Not Found",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "url": "https://www.esso.fr/",
+      "slug": "www.esso.fr",
+      "file": "offline-web/www.esso.fr.html",
+      "fetchedAt": "2026-07-09T13:47:33.191Z",
+      "ok": true,
+      "title": "Page Accueil - Northatlantic",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.esso.no/",
+      "slug": "www.esso.no",
+      "file": "offline-web/www.esso.no.html",
+      "fetchedAt": "2026-07-09T13:47:35.370Z",
+      "ok": true,
+      "title": "ESSO: ENERGISTASJONER I NORGE",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.fnac.com/",
+      "slug": "www.fnac.com",
+      "file": "offline-web/www.fnac.com.html",
+      "fetchedAt": "2026-07-09T13:47:36.238Z",
+      "ok": false,
+      "title": "https://www.fnac.com/",
+      "status": "403 Forbidden",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "url": "https://www.fnac.com/localiser-magasin/fnac-paris-saint-lazare/cl292/w-4",
+      "slug": "www.fnac.com-localiser-magasin-fnac-paris-saint-lazare-cl292-w-4",
+      "file": "offline-web/www.fnac.com-localiser-magasin-fnac-paris-saint-lazare-cl292-w-4.html",
+      "fetchedAt": "2026-07-09T13:47:37.033Z",
+      "ok": false,
+      "title": "https://www.fnac.com/localiser-magasin/fnac-paris-saint-lazare/cl292/w-4",
+      "status": "403 Forbidden",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-maison-la-roche-paris-16e-1923/",
+      "slug": "www.fondationlecorbusier.fr-en-work-architecture-achievements-maison-la-roche-paris-16e-1923",
+      "file": "offline-web/www.fondationlecorbusier.fr-en-work-architecture-achievements-maison-la-roche-paris-16e-1923.html",
+      "fetchedAt": "2026-07-09T13:47:37.303Z",
+      "ok": false,
+      "title": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-maison-la-roche-paris-16e-1923/",
+      "status": "404 Not Found",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "url": "https://www.fondationlouisvuitton.fr/en",
+      "slug": "www.fondationlouisvuitton.fr-en",
+      "file": "offline-web/www.fondationlouisvuitton.fr-en.html",
+      "fetchedAt": "2026-07-09T13:47:39.056Z",
+      "ok": true,
+      "title": "Fondation Louis Vuitton",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.garesetconnexions.sncf/en/stations-services/lyon-saint-exupery-tgv",
+      "slug": "www.garesetconnexions.sncf-en-stations-services-lyon-saint-exupery-tgv",
+      "file": "offline-web/www.garesetconnexions.sncf-en-stations-services-lyon-saint-exupery-tgv.html",
+      "fetchedAt": "2026-07-09T13:47:40.446Z",
+      "ok": false,
+      "title": "https://www.garesetconnexions.sncf/en/stations-services/lyon-saint-exupery-tgv",
+      "status": "403 Forbidden",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "url": "https://www.garesetconnexions.sncf/en/stations-services/paris-gare-lyon",
+      "slug": "www.garesetconnexions.sncf-en-stations-services-paris-gare-lyon",
+      "file": "offline-web/www.garesetconnexions.sncf-en-stations-services-paris-gare-lyon.html",
+      "fetchedAt": "2026-07-09T13:47:41.448Z",
+      "ok": false,
+      "title": "https://www.garesetconnexions.sncf/en/stations-services/paris-gare-lyon",
+      "status": "403 Forbidden",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "url": "https://www.imarabe.org/en",
+      "slug": "www.imarabe.org-en",
+      "file": "offline-web/www.imarabe.org-en.html",
+      "fetchedAt": "2026-07-09T13:47:42.115Z",
+      "ok": true,
+      "title": "Bienvenue à l’Institut du monde arabe | Institut du monde arabe",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.intermarche.com/",
+      "slug": "www.intermarche.com",
+      "file": "offline-web/www.intermarche.com.html",
+      "fetchedAt": "2026-07-09T13:47:46.180Z",
+      "ok": false,
+      "title": "https://www.intermarche.com/",
+      "status": "502 Bad Gateway",
+      "error": "HTTP 502 Bad Gateway"
+    },
+    {
+      "url": "https://www.louvre.fr/en",
+      "slug": "www.louvre.fr-en",
+      "file": "offline-web/www.louvre.fr-en.html",
+      "fetchedAt": "2026-07-09T13:47:46.945Z",
+      "ok": true,
+      "title": "Musée du Louvre Official Website",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.mam.paris.fr/en",
+      "slug": "www.mam.paris.fr-en",
+      "file": "offline-web/www.mam.paris.fr-en.html",
+      "fetchedAt": "2026-07-09T13:47:49.226Z",
+      "ok": true,
+      "title": "City of Paris Museum of Modern Art |",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.musee-orangerie.fr/en",
+      "slug": "www.musee-orangerie.fr-en",
+      "file": "offline-web/www.musee-orangerie.fr-en.html",
+      "fetchedAt": "2026-07-09T13:47:50.838Z",
+      "ok": true,
+      "title": "Musée de l'Orangerie",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.musee-orsay.fr/en",
+      "slug": "www.musee-orsay.fr-en",
+      "file": "offline-web/www.musee-orsay.fr-en.html",
+      "fetchedAt": "2026-07-09T13:47:52.008Z",
+      "ok": false,
+      "title": "https://www.musee-orsay.fr/en",
+      "status": "403 Forbidden",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "url": "https://www.musee-rodin.fr/en",
+      "slug": "www.musee-rodin.fr-en",
+      "file": "offline-web/www.musee-rodin.fr-en.html",
+      "fetchedAt": "2026-07-09T13:47:52.369Z",
+      "ok": true,
+      "title": "Home | Musée Rodin",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.museepicassoparis.fr/en",
+      "slug": "www.museepicassoparis.fr-en",
+      "file": "offline-web/www.museepicassoparis.fr-en.html",
+      "fetchedAt": "2026-07-09T13:47:54.884Z",
+      "ok": true,
+      "title": "Home page | Musée Picasso Paris",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/andoya/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-andoya",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-andoya.html",
+      "fetchedAt": "2026-07-09T13:47:57.252Z",
+      "ok": true,
+      "title": "Andøya | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/atlanterhavsvegen/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-atlanterhavsvegen",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-atlanterhavsvegen.html",
+      "fetchedAt": "2026-07-09T13:47:58.494Z",
+      "ok": true,
+      "title": "Atlanterhavsvegen | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/aurlandsfjellet/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-aurlandsfjellet",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-aurlandsfjellet.html",
+      "fetchedAt": "2026-07-09T13:47:59.051Z",
+      "ok": true,
+      "title": "Aurlandsfjellet | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/gamle-strynefjellsvegen/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-gamle-strynefjellsvegen",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-gamle-strynefjellsvegen.html",
+      "fetchedAt": "2026-07-09T13:47:59.514Z",
+      "ok": true,
+      "title": "Gamle Strynefjellsvegen | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/geiranger--trollstigen/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-geiranger--trollstigen",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-geiranger--trollstigen.html",
+      "fetchedAt": "2026-07-09T13:47:59.953Z",
+      "ok": true,
+      "title": "Geiranger – Trollstigen | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/hardanger/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-hardanger",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-hardanger.html",
+      "fetchedAt": "2026-07-09T13:48:00.407Z",
+      "ok": true,
+      "title": "Hardanger | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-hardangervidda",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-hardangervidda.html",
+      "fetchedAt": "2026-07-09T13:48:00.824Z",
+      "ok": true,
+      "title": "Hardangervidda | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/havoysund/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-havoysund",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-havoysund.html",
+      "fetchedAt": "2026-07-09T13:48:01.270Z",
+      "ok": true,
+      "title": "Havøysund | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/helgelandskysten/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-helgelandskysten",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-helgelandskysten.html",
+      "fetchedAt": "2026-07-09T13:48:01.710Z",
+      "ok": true,
+      "title": "Helgelandskysten | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/jaeren/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-jaeren",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-jaeren.html",
+      "fetchedAt": "2026-07-09T13:48:02.148Z",
+      "ok": false,
+      "title": "https://www.nasjonaleturistveger.no/en/routes/jaeren/",
+      "status": "404 Not Found",
+      "error": "HTTP 404 Not Found"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/lofoten/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-lofoten",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-lofoten.html",
+      "fetchedAt": "2026-07-09T13:48:02.541Z",
+      "ok": true,
+      "title": "Lofoten | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/rondane/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-rondane",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-rondane.html",
+      "fetchedAt": "2026-07-09T13:48:02.976Z",
+      "ok": true,
+      "title": "Rondane | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/ryfylke/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-ryfylke",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-ryfylke.html",
+      "fetchedAt": "2026-07-09T13:48:03.394Z",
+      "ok": true,
+      "title": "Ryfylke | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/senja/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-senja",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-senja.html",
+      "fetchedAt": "2026-07-09T13:48:03.799Z",
+      "ok": true,
+      "title": "Senja | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/sognefjellet/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-sognefjellet",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-sognefjellet.html",
+      "fetchedAt": "2026-07-09T13:48:04.248Z",
+      "ok": true,
+      "title": "Sognefjellet | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/valdresflye/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-valdresflye",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-valdresflye.html",
+      "fetchedAt": "2026-07-09T13:48:05.753Z",
+      "ok": true,
+      "title": "Valdresflye | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.nasjonaleturistveger.no/en/routes/varanger/",
+      "slug": "www.nasjonaleturistveger.no-en-routes-varanger",
+      "file": "offline-web/www.nasjonaleturistveger.no-en-routes-varanger.html",
+      "fetchedAt": "2026-07-09T13:48:06.163Z",
+      "ok": true,
+      "title": "Varanger | Nasjonale turistveger",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.paris-pantheon.fr/en",
+      "slug": "www.paris-pantheon.fr-en",
+      "file": "offline-web/www.paris-pantheon.fr-en.html",
+      "fetchedAt": "2026-07-09T13:48:06.611Z",
+      "ok": true,
+      "title": "Welcome to the Panthéon",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.parisaeroport.fr/en/passengers",
+      "slug": "www.parisaeroport.fr-en-passengers",
+      "file": "offline-web/www.parisaeroport.fr-en-passengers.html",
+      "fetchedAt": "2026-07-09T13:48:09.209Z",
+      "ok": true,
+      "title": "https://www.parisaeroport.fr/en/passengers",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.pinaultcollection.com/en/boursedecommerce",
+      "slug": "www.pinaultcollection.com-en-boursedecommerce",
+      "file": "offline-web/www.pinaultcollection.com-en-boursedecommerce.html",
+      "fetchedAt": "2026-07-09T13:48:10.109Z",
+      "ok": true,
+      "title": "Bourse de Commerce | Pinault Collection",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.rema.no/",
+      "slug": "www.rema.no",
+      "file": "offline-web/www.rema.no.html",
+      "fetchedAt": "2026-07-09T13:48:11.872Z",
+      "ok": true,
+      "title": "Forside | REMA 1000 | Alltid lave priser",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.sacre-coeur-montmartre.com/english/",
+      "slug": "www.sacre-coeur-montmartre.com-english",
+      "file": "offline-web/www.sacre-coeur-montmartre.com-english.html",
+      "fetchedAt": "2026-07-09T13:48:12.659Z",
+      "ok": true,
+      "title": "Basilique du Sacré-Cœur",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.sainte-chapelle.fr/en",
+      "slug": "www.sainte-chapelle.fr-en",
+      "file": "offline-web/www.sainte-chapelle.fr-en.html",
+      "fetchedAt": "2026-07-09T13:48:17.037Z",
+      "ok": true,
+      "title": "Sainte-Chapelle",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.salineroyale.com/",
+      "slug": "www.salineroyale.com",
+      "file": "offline-web/www.salineroyale.com.html",
+      "fetchedAt": "2026-07-09T13:48:18.909Z",
+      "ok": true,
+      "title": "Saline royale d'Arc-et-Senans | Site officiel",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.st1.no/",
+      "slug": "www.st1.no",
+      "file": "offline-web/www.st1.no.html",
+      "fetchedAt": "2026-07-09T13:48:21.358Z",
+      "ok": true,
+      "title": "St1  | St1 Norge",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.villa-savoye.fr/en/",
+      "slug": "www.villa-savoye.fr-en",
+      "file": "offline-web/www.villa-savoye.fr-en.html",
+      "fetchedAt": "2026-07-09T13:48:24.983Z",
+      "ok": true,
+      "title": "Welcome to the villa Savoye in Poissy",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.westfield.com/france/les4temps",
+      "slug": "www.westfield.com-france-les4temps",
+      "file": "offline-web/www.westfield.com-france-les4temps.html",
+      "fetchedAt": "2026-07-09T13:48:27.883Z",
+      "ok": true,
+      "title": "Centre commercial La Défense | Westfield Les 4 Temps / Cnit",
+      "status": "200 OK"
+    },
+    {
+      "url": "https://www.whairport.com/",
+      "slug": "www.whairport.com",
+      "file": "offline-web/www.whairport.com.html",
+      "fetchedAt": "2026-07-09T13:48:37.886Z",
+      "ok": false,
+      "title": "https://www.whairport.com/",
+      "status": "",
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://www.yx.no/",
+      "slug": "www.yx.no",
+      "file": "offline-web/www.yx.no.html",
+      "fetchedAt": "2026-07-09T13:48:38.596Z",
+      "ok": true,
+      "title": "YX Norge - Din lokale stasjon for drivstoff og service",
+      "status": "200 OK"
+    }
+  ]
+}
